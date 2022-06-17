@@ -53,7 +53,7 @@
       <td>
          <a href="https://github.com/muxiaoxiong"><img width="70" height="70" src="https://github.com/muxiaoxiong.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/muxiaoxiong">牧小熊</a>
-         <p> <a href="https://github.com/muxiaoxiong">牧小熊</a> </br> Task04&Task06 </p>
+         <p> <a href="https://github.com/datawhalechina">Datawhale成员</a> </br> Task04&Task06 </p>
       </td>
       <td>
          <a href="https://github.com/XksA-me"><img width="70" height="70" src="https://github.com/XksA-me.png?s=40" alt="pic"></a><br>
@@ -63,7 +63,7 @@
       <td>
          <a href="https://github.com/double-point"><img width="70" height="70" src="https://github.com/double-point.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/double-point">小一</a>
-         <p>Datawhale成员 </br>Task05&Task03</p>
+         <p><a href="https://github.com/datawhalechina">Datawhale成员</a> </br>Task05&Task03</p>
       </td>
     </tr>
   </tbody>
