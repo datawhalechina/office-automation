@@ -70,6 +70,11 @@
          <a href="https://github.com/1121091694">赵信达</a>
          <p><a href="https://github.com/datawhalechina">Datawhale成员</a> </br>Task01</p>
       </td>
+      <td>
+         <a href="https://github.com/feijuan"><img width="70" height="70" src="https://github.com/feijuan.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/feijuan">于鸿飞</a>
+         <p>Task03</p>
+      </td>
     </tr>
   </tbody>
 </table>
