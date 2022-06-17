@@ -52,7 +52,7 @@
     <tr align="center" >
       <td>
          <a href="https://github.com/muxiaoxiong"><img width="70" height="70" src="https://github.com/muxiaoxiong.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/muxiaoxiong">Muxiaoxiong</a>
+         <a href="https://github.com/muxiaoxiong">牧小熊</a>
          <p>华中农业大学</p>
       </td>
     </tr>
