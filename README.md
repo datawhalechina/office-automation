@@ -53,7 +53,7 @@
       <td>
          <a href="https://github.com/muxiaoxiong"><img width="70" height="70" src="https://github.com/muxiaoxiong.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/muxiaoxiong">牧小熊</a>
-         <p>Task04&Task06</p>
+         <p>Datawhale成员 </br> Task04&Task06 </p>
       </td>
       <td>
          <a href="https://github.com/XksA-me"><img width="70" height="70" src="https://github.com/XksA-me.png?s=40" alt="pic"></a><br>
