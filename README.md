@@ -65,6 +65,11 @@
          <a href="https://github.com/double-point">小一</a>
          <p><a href="https://github.com/datawhalechina">Datawhale成员</a> </br>Task05&Task03</p>
       </td>
+      <td>
+         <a href="https://github.com/1121091694"><img width="70" height="70" src="https://github.com/1121091694.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/1121091694">赵信达</a>
+         <p><a href="https://github.com/datawhalechina">Datawhale成员</a> </br>Task01</p>
+      </td>
     </tr>
   </tbody>
 </table>
