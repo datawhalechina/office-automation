@@ -8,7 +8,6 @@
 - 先修内容：<a href="https://github.com/datawhalechina/learn-python-the-smart-way">Python编程语言</a>
 - 相关课程：<a href="https://github.com/datawhalechina/team-learning-program/tree/master/CollectData" >数据采集</a>
 - 测试课程：<a href="https://github.com/datawhalechina/team-learning-program/tree/master/OfficeAutomation" >Datawhale组队学习-办公自动化</a>
-- 难度系数：⭐⭐
 
 ### 课程大纲
 
