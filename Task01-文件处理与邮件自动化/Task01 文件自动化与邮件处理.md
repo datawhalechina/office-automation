@@ -1,3 +1,6 @@
+---
+typora-copy-images-to: png
+---
 
 # Task 01 文件自动化处理
 
@@ -288,6 +291,8 @@ with open('bacon.txt','r') as f:
 counter = Counter(my_list)
 counter
 ```
+
+
 
 #### 1.1.5.4 保存变量
 
@@ -818,8 +823,10 @@ print("邮件发送成功")
 smtp.quit         # 关闭SMTP对象
 ```
 
-## Ref:
+**参考！！！**：
 
-- [Datawhale自动化办公-Task01 文件自动化与邮件处理](https://github.com/datawhalechina/team-learning-program/blob/master/OfficeAutomation/Task01%20%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86.md)
+https://github.com/datawhalechina/team-learning-program/blob/master/OfficeAutomation/Task01%20%E6%96%87%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%8E%E9%82%AE%E4%BB%B6%E5%A4%84%E7%90%86.md
 
-- 《学Python，不加班——轻松实现办公自动化》-何华平 一书的第三章高效办公文件管理
+和
+
+《学Python，不加班——轻松实现办公自动化》-何华平 一书的第三章高效办公文件管理
