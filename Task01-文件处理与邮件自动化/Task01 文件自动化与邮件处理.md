@@ -232,15 +232,40 @@ print(helloFile)
 
 `readlines()`:按行读取文件中的内容，取得一个字符串列表，列表中每个字符串是文本中的一行且以\n结束。
 
+`readline()`:方法用于从文件读取一整行，包括 “\n” 字符。如果指定了一个非负数的参数，则返回指定大小的字节数，包括 “\n” 字符。
+
 ```python
 helloContent = helloFile.read()
 helloContent
 ```
 
 ```python
+helloFile.close() # 关闭文件, 如果没有关闭将会导致文件被占用,文件管理器不能移动或删除此文件
+```
+
+```python
 sonnetFile = open('D:\\Datawhale\\python办公自动化\\hello.txt')
 sonnetFile.readlines()
 ```
+
+```python
+sonnetFile.close() # 关闭文件, 如果没有关闭将会导致文件被占用,文件管理器不能移动或删除此文件
+```
+
+```python
+read_one=open('D:\\Datawhale\\python办公自动化\\hello.txt')
+line = read_one.readline()
+print("读取第一行 %s" % (line))
+line = read_one.readline(3)
+print("读取的后续(第二行)3个字符串为: %s" % (line))
+line = read_one.readlines()
+print("后续的文件内容:",line) 
+read_one.close() # 关闭文件, 如果没有关闭将会导致文件被占用,文件管理器不能移动或删除
+```
+
+> 留个思考题：为什么代码读取的是读取后续的部分，而不是文件的全部内容？如何重新读取全部内容？
+
+> 提示：read的过程，伴随着offset(类似文件光标位置)的变化，readline(3)之后，再使用readlines()只处理光标后面的部分
 
 #### 1.1.5.3 写入文件
 
