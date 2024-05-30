@@ -1,5 +1,7 @@
 # office-automation
 
+🎉本课程已上线至智海（国家级的AI科教平台）：https://aiplusx.momodel.cn/classroom/class/664bf764599277c8d81d326d
+
 课程基本信息
 
 - 学习周期：14天，每天平均花费时间1小时-3小时不等，根据个人学习接受能力强弱有所浮动。
